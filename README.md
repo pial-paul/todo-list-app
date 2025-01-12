@@ -14,7 +14,3 @@ A modern and interactive To-Do List app designed to help you manage your tasks e
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Dynamic functionality (CRUD operations and local storage).
 
-## 🚀 Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
