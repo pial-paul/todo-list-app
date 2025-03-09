@@ -9,6 +9,9 @@ A modern and interactive To-Do List app designed to help you manage your tasks e
 - **Responsive Design**: Fully responsive for mobile, tablet, and desktop devices.
 - **User-Friendly UI**: Clean and modern design for easy navigation.
 
+## Demo
+(https://pial-paul.github.io/todo-list-app/)
+
 ## 🛠️ Tech Stack
 - **HTML**: Structure of the app.
 - **CSS**: Styling and responsive design.
